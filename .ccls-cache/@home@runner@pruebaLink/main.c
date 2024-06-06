@@ -5,6 +5,9 @@ int main(void) {
   printf("Hello World\n");
   
   printf("benjita esta de cumple el %i", x);
+  printf("benjita esta de cumple el %i", x);
+  printf("benjita esta de cumple el %i", x);
+  printf("benjita esta de cumple el %i", x);
   
   return 0;
 
